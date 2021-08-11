@@ -12,7 +12,7 @@ namespace UnitTestcalculate
         {
 
             //Arrange  --- variables and provide values
-
+            //Arrange the variables
             int num = 20;
             int deno = 4;
             int expectedresult = 4;
